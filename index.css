@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+.girl {
+  margin: auto;
+  display: block;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
